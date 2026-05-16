@@ -80,7 +80,7 @@ export function Catalog() {
                     asChild
                   >
                     <a
-                      href="https://wa.me/5210000000000"
+                      href="https://wa.me/529517774460"
                       target="_blank"
                     >
                       <MessageCircle className="mr-2 h-5 w-5" />
@@ -95,7 +95,7 @@ export function Catalog() {
                     asChild
                   >
                     <a
-                      href="https://wa.me/5210000000000"
+                      href="https://wa.me/529517774460"
                       target="_blank"
                     >
                       Solicitar cotización
