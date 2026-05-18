@@ -287,7 +287,7 @@ export function Contact() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center">
                   <span className="text-muted-foreground">Lunes - Viernes</span>
-                  <span className="font-medium">9:00 AM - 5:00 PM</span>
+                  <span className="font-medium">09:00 AM - 5:00 PM</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-muted-foreground">Sábado</span>
@@ -304,7 +304,7 @@ export function Contact() {
             <div className="p-6 rounded-2xl glass">
               <h3 className="text-xl font-semibold mb-4">Ubicación</h3>
               <p className="text-muted-foreground mb-4">
-                Oaxaca de Juarez CP 68000,Oaxaca.
+                Oaxaca de Juarez, Oaxaca CP 68000.
                 <br />
                 
               </p>
