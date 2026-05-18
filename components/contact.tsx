@@ -263,7 +263,7 @@ export function Contact() {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Email</div>
-                    <div className="font-medium">contacto@gosware.com</div>
+                    <div className="font-medium">contacto.gosware@gmail.com</div>
                   </div>
                 </a>
                 <a
