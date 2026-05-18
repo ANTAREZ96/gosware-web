@@ -275,7 +275,7 @@ export function Contact() {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Teléfono</div>
-                    <div className="font-medium">+52 123 456 7890</div>
+                    <div className="font-medium">+52 951 777 4460</div>
                   </div>
                 </a>
               </div>
@@ -287,14 +287,14 @@ export function Contact() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center">
                   <span className="text-muted-foreground">Lunes - Viernes</span>
-                  <span className="font-medium">9:00 AM - 7:00 PM</span>
+                  <span className="font-medium">9:00 AM - 5:00 PM</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-muted-foreground">Sábado</span>
-                  <span className="font-medium">10:00 AM - 4:00 PM</span>
+                  <span className="font-medium">09:00 AM - 3:00 PM</span>
                 </div>
                 <div className="flex justify-between items-center">
-                  <span className="text-muted-foreground">Soporte 24/7</span>
+                  <span className="text-muted-foreground">Soporte especial 24/7</span>
                   <span className="font-medium text-primary">Disponible</span>
                 </div>
               </div>
@@ -304,9 +304,9 @@ export function Contact() {
             <div className="p-6 rounded-2xl glass">
               <h3 className="text-xl font-semibold mb-4">Ubicación</h3>
               <p className="text-muted-foreground mb-4">
-                Av. Tecnología #1234, Col. Innovation Park,
+                Oaxaca de Juarez CP 68000,Oaxaca.
                 <br />
-                Ciudad de México, CP 01234
+                
               </p>
               <div className="aspect-video rounded-xl overflow-hidden bg-secondary">
                 <div className="w-full h-full flex items-center justify-center text-muted-foreground">
